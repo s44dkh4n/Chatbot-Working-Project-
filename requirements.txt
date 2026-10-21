@@ -1,0 +1,16 @@
+aiohttp
+langchain-community
+langchain-core
+langchain-groq
+langchain-mcp-adapters
+langgraph
+langgraph-checkpoint-sqlite
+pydantic-settings
+manim
+fastmcp
+ddgs
+chromadb>=1.0
+pymupdf
+pytest
+sentence-transformers>=3.0
+flashrank

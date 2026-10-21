@@ -1,0 +1,255 @@
+[
+  {
+    "question": "Who are the authors credited for the book 'Introduction to Machine Learning with Python'?",
+    "pages": [
+      1,
+      4
+    ],
+    "snippets": [
+      "Andreas C. M\u00fcller and Sarah Guido"
+    ],
+    "document": "Handbook"
+  },
+  {
+    "question": "What is an example of a task where the system identifies postal codes from scanned handwriting?",
+    "pages": [
+      16,
+      17
+    ],
+    "snippets": [
+      "Identifying the zip code from handwritten digits"
+    ],
+    "document": "Handbook"
+  },
+  {
+    "question": "What are the alternative names for the portion of data used to evaluate model performance?",
+    "pages": [
+      31,
+      31
+    ],
+    "snippets": [
+      "test data, test set, or hold-out set"
+    ],
+    "document": "Handbook"
+  },
+  {
+    "question": "Which online resource is suggested for additional details on the algorithms?",
+    "pages": [
+      43,
+      44
+    ],
+    "snippets": [
+      "scikit-learn documentation for more details"
+    ],
+    "document": "Handbook"
+  },
+  {
+    "question": "What specific mathematical norm does Ridge regression penalize?",
+    "pages": [
+      62,
+      63
+    ],
+    "snippets": [
+      "L2 norm of the coefficients"
+    ],
+    "document": "Handbook"
+  },
+  {
+    "question": "Which specific class is assigned to a data point located in the central triangular region where all individual binary models predict 'rest'?",
+    "pages": [
+      79,
+      80
+    ],
+    "snippets": [
+      "the class of the closest line"
+    ],
+    "document": "Handbook"
+  },
+  {
+    "question": "What is the primary goal of the example involving tree-based models in the context of time series?",
+    "pages": [
+      95,
+      96
+    ],
+    "snippets": [
+      "illustrate a particular property of how trees"
+    ],
+    "document": "Handbook"
+  },
+  {
+    "question": "What is the name of the method that calculates distances in an expanded feature space without explicitly creating that representation?",
+    "pages": [
+      111,
+      112
+    ],
+    "snippets": [
+      "This is known as the kernel trick"
+    ],
+    "document": "Handbook"
+  },
+  {
+    "question": "Which specific machine learning methods are noted as being highly sensitive to how data features are scaled?",
+    "pages": [
+      146,
+      147
+    ],
+    "snippets": [
+      "algorithms, like neural networks and SVMs"
+    ],
+    "document": "Handbook"
+  },
+  {
+    "question": "What is the rationale for restricting the dataset to a maximum of fifty pictures per individual?",
+    "pages": [
+      163,
+      164
+    ],
+    "snippets": [
+      "feature extraction would be overwhelmed"
+    ],
+    "document": "Handbook"
+  },
+  {
+    "question": "How are the group identifiers assigned in the clustering process?",
+    "pages": [
+      185,
+      185
+    ],
+    "snippets": [
+      "clusters are numbered 0 to 2"
+    ],
+    "document": "Handbook"
+  },
+  {
+    "question": "What specific value is assigned to denote a noise point in the DBSCAN algorithm's output?",
+    "pages": [
+      204,
+      205
+    ],
+    "snippets": [
+      "use of -1 to indicate"
+    ],
+    "document": "Handbook"
+  },
+  {
+    "question": "How are discrete attributes defined in the context of data processing?",
+    "pages": [
+      223,
+      225
+    ],
+    "snippets": [
+      "known as discrete features"
+    ],
+    "document": "Handbook"
+  },
+  {
+    "question": "How many times is the random forest model trained during the recursive feature elimination process described?",
+    "pages": [
+      254,
+      255
+    ],
+    "snippets": [
+      "random forest model is trained 40 times"
+    ],
+    "document": "Handbook"
+  },
+  {
+    "question": "Which module must be imported to access the KFold class for custom data splitting?",
+    "pages": [
+      270,
+      271
+    ],
+    "snippets": [
+      "from the model_selection module"
+    ],
+    "document": "Handbook"
+  },
+  {
+    "question": "What is the recommended initial step when testing a model parameter to determine its impact on accuracy?",
+    "pages": [
+      284,
+      285
+    ],
+    "snippets": [
+      "try very extreme values first"
+    ],
+    "document": "Handbook"
+  },
+  {
+    "question": "What are some alternative terms used to describe the metric that evaluates finding all sick individuals?",
+    "pages": [
+      297,
+      297
+    ],
+    "snippets": [
+      "Other names for recall are sensitivity"
+    ],
+    "document": "Handbook"
+  },
+  {
+    "question": "How many instances of the number two were incorrectly identified as the number three?",
+    "pages": [
+      311,
+      312
+    ],
+    "snippets": [
+      "three of which were classified as the digit 3"
+    ],
+    "document": "Handbook"
+  },
+  {
+    "question": "What is the method used to automatically assign names to pipeline steps based on their class names?",
+    "pages": [
+      327,
+      328
+    ],
+    "snippets": [
+      "automatically name each step based"
+    ],
+    "document": "Handbook"
+  },
+  {
+    "question": "How many total items are contained within the evaluation dataset?",
+    "pages": [
+      341,
+      342
+    ],
+    "snippets": [
+      "Number of documents in test data"
+    ],
+    "document": "Handbook"
+  },
+  {
+    "question": "What was the highest cross-validation score achieved using the grid search?",
+    "pages": [
+      355,
+      356
+    ],
+    "snippets": [
+      "Best cross-validation score: 0.91"
+    ],
+    "document": "Handbook"
+  },
+  {
+    "question": "What specific data structures are highlighted as offering a straightforward and effective approach for categorizing textual content?",
+    "pages": [
+      369,
+      369
+    ],
+    "snippets": [
+      "bag-of-words representations provide a simple"
+    ],
+    "document": "Handbook"
+  },
+  {
+    "question": "Which online platform hosts more than twenty thousand datasets?",
+    "pages": [
+      379,
+      380
+    ],
+    "snippets": [
+      "over 20,000 datasets"
+    ],
+    "document": "Handbook"
+  }
+]
